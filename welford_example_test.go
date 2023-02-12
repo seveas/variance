@@ -3,7 +3,7 @@ package variance_test
 import (
 	"fmt"
 
-	"github.com/axiomhq/variance"
+	"github.com/seveas/variance"
 )
 
 func Example() {
